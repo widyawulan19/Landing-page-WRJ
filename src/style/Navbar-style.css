@@ -1,0 +1,77 @@
+.Navbar-Container {
+    background-color: white;
+    overflow: hidden;
+    color: white;
+    margin-bottom: -0.5vh;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Atur bayangan */
+    /*position : fixed, width: 100%, top:0, z-index:1000 
+      membantu navbar agar tetap muncul
+    */
+  }
+  
+  .Navbar-Container  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-weight: bold;
+  }
+  
+  .Navbar-Container  li {
+    float: left;
+    padding: 10px;
+    color: #164A41;
+    margin-top: 2vh;
+    margin-left: 3vh;
+  }
+
+  .Navbar-Container .menu-link:hover{
+    border-bottom: 1px solid #164A41;
+  }
+  
+  .Navbar-Container .menu-link.active{
+    border-bottom: 1px solid #164A41;
+  }
+
+  .Navbar-Container button{
+    background-color:#eebf73;
+    color: #164A41;
+    width: 20vh;
+    height: 5vh;
+    margin-top: 2vh;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Merriweather', serif;
+  }
+
+  .Navbar-Container button:hover{
+    background-color: #F1B24A;
+    border: 1px solid #F1B24A;
+    color: white;
+  }
+  .Navbar-Container  a {
+    display: block;
+    color: #373C37;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+
+  img{
+    height: 70px;
+    width: 80px;
+    float: left;
+    margin-left: 5vh;
+    margin-right: 40vh;
+    border-right: 0px solid #A5AAA5;
+  }
+
+  

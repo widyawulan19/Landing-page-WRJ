@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/widyawulan19/Landing-page-WRJ/static/css/main.3acf9451.css",
+    "main.js": "/widyawulan19/Landing-page-WRJ/static/js/main.9eecaff0.js",
+    "static/js/592.714393fd.chunk.js": "/widyawulan19/Landing-page-WRJ/static/js/592.714393fd.chunk.js",
+    "static/media/background.png": "/widyawulan19/Landing-page-WRJ/static/media/background.e88ceb1a77c9ceb912f6.png",
+    "index.html": "/widyawulan19/Landing-page-WRJ/index.html",
+    "main.3acf9451.css.map": "/widyawulan19/Landing-page-WRJ/static/css/main.3acf9451.css.map",
+    "main.9eecaff0.js.map": "/widyawulan19/Landing-page-WRJ/static/js/main.9eecaff0.js.map",
+    "592.714393fd.chunk.js.map": "/widyawulan19/Landing-page-WRJ/static/js/592.714393fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3acf9451.css",
+    "static/js/main.9eecaff0.js"
+  ]
+}

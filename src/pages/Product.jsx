@@ -18,7 +18,11 @@ const Product=()=> {
                 <p style={{textAlign:'center', fontSize:'13px'}}>
                 Memiliki cita rasa gurih dan renyah dengan sedikit rasa manis dari jamur yang telah dikaramelisasi selama proses pemanggangan.
                 Keripik Jamur Lunas juga dapat disajikan dengan berbagai bumbu dan rempah tambahan.
+<<<<<<< HEAD
                 <span style={{fontWeight:'bold'}}><br /><br />Rp. - </span>
+=======
+                <span style={{fontWeight:'bold'}}><br /><br />Rp. 20.000 </span>
+>>>>>>> bb4328b (update 6 des)
                 </p>
             </div>
             <div className="card">
@@ -28,7 +32,11 @@ const Product=()=> {
                 <p style={{textAlign:'center', fontSize:'13px'}}>
                 Batik Sibori merupakan karya seni yang dibuat oleh teman-teman ODGJ di Panti Hafara, Kereativitas dalam lipatan dan ikatan sebelum
                 proses pewarnaan menghasilkan pola yang menakjubkan.
+<<<<<<< HEAD
                 <span style={{fontWeight:'bold'}}><br /><br />Rp. 25.000 </span>
+=======
+                <span style={{fontWeight:'bold'}}><br /><br />Rp. 50.000 </span>
+>>>>>>> bb4328b (update 6 des)
                 </p>
             </div>
             <div className="card">
@@ -38,7 +46,11 @@ const Product=()=> {
                 <p style={{textAlign:'center', fontSize:'13px'}}>
                 Kopi Tiyunke merupakan perpaduan biji kopi berkualitas tinggi yang dipilih secara teliti oleh petani-petani terbaik, setiap cangkirnya menghadirkan aroma yang memikat dan mengundang selera.
 
+<<<<<<< HEAD
                 <span style={{fontWeight:'bold'}}><br /><br />Rp. - </span>
+=======
+                <span style={{fontWeight:'bold'}}><br /><br />Rp. 25.000 </span>
+>>>>>>> bb4328b (update 6 des)
                 </p>
             </div>
             <div className="card">
@@ -48,7 +60,11 @@ const Product=()=> {
                 <p style={{textAlign:'center', fontSize:'13px'}}>
                 Gula Putri Satu Tuju merupakan gula kristal yang terkenal dengan kualitas yang premium dan konsistensi butirannya yang halus. 
                 Gula ini diproduksi dengan menggunakan tebu pilihan .
+<<<<<<< HEAD
                 <span style={{fontWeight:'bold'}}><br /><br />Rp. - </span>
+=======
+                <span style={{fontWeight:'bold'}}><br /><br />Rp. 17.000 </span>
+>>>>>>> bb4328b (update 6 des)
                 </p>
             </div>
         </div>
